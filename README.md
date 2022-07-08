@@ -1,11 +1,15 @@
-## Academy.DataScience.RealEstateApplication
+# Realestate Project
 
 ## Introduction
-This Project is going to be awsome!!
+Data science project including
+* Crawling method with selenium
+* Data cleaning 
+* EDA and visualization
+* ML
 
-## About
-- Realestate
 
 ## Authors
+* Adir Nisim
 * Igal Khalfin
-* Adir Nissim
+
+
