@@ -24,7 +24,7 @@ Data science project including
 ### React webclient instructions
 Go to house-prediction-client folder and open cmd from the url 
 * Type command below and leave it open:
-1. nmp start
+1. npm start
 
 
 ![](Webclient.gif)
