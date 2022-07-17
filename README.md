@@ -12,12 +12,16 @@ Data science project including
 * Adir Nisim
 * Igal Khalfin
 
-#Fast api instructions
+
+
+# instructions for viewing the react project.
+
+## Fast api instructions
 * Go to Server folder and open cmd from the url 
 * Type command below and leave it open:
 1.uvicorn Main:app --reload
 
-# React webclient 
+## React webclient instructions
 Go to house-prediction-client folder and open cmd from the url 
 * Type command below and leave it open:
 1. nmp start
