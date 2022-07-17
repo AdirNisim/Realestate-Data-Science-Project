@@ -18,7 +18,7 @@ Data science project including
 
 ### Fast api instructions
 * Go to Server folder and open cmd from the url 
-* Type command below and leave it open:
+* Type command below and leave it open:  
 1.uvicorn Main:app --reload
 
 ### React webclient instructions
