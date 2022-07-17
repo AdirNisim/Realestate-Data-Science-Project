@@ -14,7 +14,7 @@ Data science project including
 
 
 
-# instructions for viewing the react project.
+# Instructions for viewing the react project.
 
 ### Fast api instructions
 * Go to Server folder and open cmd from the url 
